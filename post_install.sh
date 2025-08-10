@@ -28,7 +28,8 @@ install_packages() {
         gutenprint libcups vlc nmap git python-pip timeshift bluez zip unzip \
         base-devel make flatpak openvpn libreoffice-still chromium \
         avahi nss-mdns nano xorg-xwayland uwsm hyprshot swaylock dolphin \
-        gnome-software gnome-text-editor simple-scan xdg-desktop-portal-hyprland
+        gnome-software gnome-text-editor simple-scan xdg-desktop-portal-hyprland \
+        waybar
 }
 
 # Configure printers
